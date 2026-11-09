@@ -9,7 +9,6 @@
 - [Весенняя программа, PDF](gaifullin/syllabus.pdf) — 19 вопросов. [Страница курса МГУ](https://halgebra.math.msu.su/wiki/doku.php/dop_glavy_comm_algebry_25-26)
 - [Первая весенняя лекция, PDF](gaifullin/lecture-01.pdf) — вопросы № 1–2, включая определения 1–9, леммы 1–2, теорему 1 и её пункты (а)–(в). Доказательства пунктов (б) и (в) и результат о кольцах размерности ноль вынесены за пределы этого PDF.
 - **Весна 2026.** На странице курса опубликован конспект лекции 1. По лекциям 2–15 доступны темы из плана, PDF-конспекты пока не найдены. [Официальный план](https://halgebra.math.msu.su/wiki/doku.php/dop_glavy_comm_algebry_25-26)
-- **Осень 2025.** [Все 15 конспектов базового курса](gaifullin/autumn-2025/) сохранены отдельно. Для повторения локализации см. [лекцию 3](gaifullin/autumn-2025/lecture-03.pdf). [Страница осеннего курса](https://halgebra.math.msu.su/wiki/doku.php/comm_algebra_25-26) · [Видеолекции Teach-In](https://teach-in.ru/course/commutative-algebra-gaifullin)
 - Для продолжения используем [локализацию простых факторов](https://stacks.math.columbia.edu/tag/00J3), [критерий артиновости](https://stacks.math.columbia.edu/tag/00KH) и [теорему о главном идеале](https://stacks.math.columbia.edu/tag/00KV) в Stacks Project. Для повторения композиционных рядов используем Атью–Макдональда, гл. 6.
 
 ## Горницкий
